@@ -2,6 +2,8 @@
 
 Proyecto trae una estructura sencilla con datos codeados en duro, se debe migrar a API REST y entregar seguridad con jsonwebtoken.
 
+No logré completarlo por falta de tiempo.
+
 [x] Instalación de dependencias: `npm i express jsonwebtoken body-parser pg pg-hstore sequelize cors bcryptjs 
 
 [x] Creada estructura necesaria para migración:
@@ -24,4 +26,5 @@ Proyecto trae una estructura sencilla con datos codeados en duro, se debe migrar
 [ ] Verificar nombres en controladores
 
 [x] Modificado controladores para que respondan a JSON
-[x] 
+
+ #to-do comprometo a terminarlo con las pruebas correspondientes
